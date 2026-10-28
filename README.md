@@ -1,86 +1,118 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Jesus+Monterrubio+%F0%9F%98%8E;A+Computer+Science+Engineer+%F0%9F%92%BB;Nice+To+Meet+You!+%F0%9F%99%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;Let's+turn+curiosity+into+knowledge;And+data+into+insights.">
   <br>
   
   ---
 </div>
 
-### ABOUT ME 👨🏽‍💻 
+### 👨🏽‍💻 About Me
 
-I'm Jesus Monterrubio, a **Computer Science Engineer** since December, 2022 from Mexico.
-<br>
-Living my life **working smart, not hard** is what I love the most, as well as...
+I'm **Jesus Monterrubio**, a Computer Systems Engineer from Mexico, graduated in December 2022.
+With a background in **Business and Information Technology**, I'm currently focusing my professional development on **Data Analytics and Business Intelligence**. I'm particularly interested in understanding how data can help organizations identify opportunities, solve problems, improve processes, and make informed decisions. My goal is to build a career in data, starting with analytics and BI, and eventually expanding into **Data Engineering**.
 
-- 🧠 Learning about both business and tech fields.
-- 🗣 Practicing my English to reach a higher level.
-- 🗂️ Being well organized. 
-- ⌨️ Being updated to use the best technologies and to apply the best practices.
-- 💰 Doing a great job and being rewarded for it.
-- 👥 Working with a professional team to learn toguether and to reach our goals.
-- 🎷 Listening music that makes me feel inspired.
-- 🏋️ Doing exercise.
-- 🏕️ Spending time on nature.
-- ♻️ Taking care of the planet.
+### 🌱 What I'm currently working on
 
-Also, I'm currently...
+- 📊 Building foundational skills in Data Analytics and BI.
+- 🗃️ Learning SQL for querying, organizing, and analyzing data.
+- 🐍 Developing Python skills for data analysis and automation.
+- 📈 Exploring Power BI, dashboards, and data visualization.
+- 🧩 Strengthening my analytical thinking and problem-solving skills.
+- 🌎 Improving my professional English communication.
+- 💼 Preparing for entry-level opportunities in the data industry.
 
-- 🔭 Looking for a trainee position or an entry-level job.
+### 🎯 Career Goals
 
-![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
+I'm working toward opportunities such as:
 
-### TECHNOLOGIES AND TOOLS I'VE USE 🛠
+- Junior Data Analyst
+- Junior Business Intelligence Analyst
+- SQL Reporting Analyst
+- Data Quality Analyst
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![Python](https://img.icons8.com/color/30/python.png)
-![SQL](https://img.icons8.com/color/30/sql.png)
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![ExpressJS](https://img.icons8.com/color/30/express-js.png)
-![WordPress](https://img.icons8.com/color/30/wordpress.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![VS2022](https://img.icons8.com/color/30/visual-studio.png)
-![Console](https://img.icons8.com/color/30/console.png)
-![Metasploit](https://img.icons8.com/color/30/metasploit.png)
-![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
-![VMWare](https://img.icons8.com/color/30/vmware.png)
-![Canva](https://img.icons8.com/color/30/canva.png)
-![Figma](https://img.icons8.com/color/30/figma.png)
-![MarkDown](https://img.icons8.com/color/30/markdown.png)
-![Microsoft Office](https://img.icons8.com/color/30/microsoft.png)
-![Windows](https://img.icons8.com/color/30/windows-10.png)
-![Git](https://img.icons8.com/color/30/git.png)
+My long-term goal is to continue growing toward **Data Engineering**, combining technical expertise with business understanding.
 
-### MY PROJECT PORTFOLIO 💼
+### 💡 Beyond Technology
 
-<div align="center">
-  <a href="https://V-Crypt.github.io"><img src="https://img.shields.io/badge/-GitHub_Pages-444444?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Pages"></a>
-</div>
+I value continuous learning, organization, efficiency, and teamwork.
+Outside of technology, I enjoy:
 
-### MY STATS 📊
+- 🎹 Music and learning piano.
+- 🏋️ Exercising and staying active.
+- 🏕️ Spending time outdoors.
+- 🌱 Caring for the environment.
+- 🤝 Collaborating with people who share a growth mindset.
+
+---
+
+### 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+</p>
+
+**Focus:** SQL · Python · Power BI · Data Analysis · Data Visualization
+
+### 💻 Previous Technology Exposure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,wordpress,git,vscode,visualstudio" alt="Development Tools"/>
+</p>
+
+### ⚙️ Other Tools And Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,figma,md" alt="Other Tools"/>
+</p>
+
+**Additional experience:** Microsoft Office, design tools as Canva, virtual machines, and video editing.
+
+ ---
+
+### 📂 Data Analytics Portfolio
+
+I'm currently building my portfolio as I develop my skills in data analytics and business intelligence.
+My upcoming projects will focus on:
+
+- 🗃️ **SQL Analysis:** Data exploration, queries, joins, and reporting.
+- 📊 **Business Intelligence:** Interactive dashboards and KPI tracking.
+- 🐍 **Python Analytics:** Data cleaning, exploration, and visualization.
+- 💼 **Business Case Studies:** Turning real-world business questions into actionable insights.
+
+*Projects will be added as they are completed.*
+
+### 📈 My Stats
 
 <details>
-<table align="center" style="text-align:center">
-<tr>
-<th> ⚡ Wakatime </th>
-</tr>
-<tr>
-<td>
+  <summary>📊 View my coding activity</summary>
+  <br>
 
-[![V-Crypt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=V_Crypt&theme=tokyonight&layout=compact&custom_title=Jesús+Monterrubio's+Wakatime+Stats)](https://github.com/V_Crypt/github-readme-stats)
-</td>
-</tr>
-</table>
+  <div align="center">
+
+  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=V_Crypt&theme=tokyonight&layout=compact&custom_title=My+Coding+Activity)](https://github.com/V_Crypt/github-readme-stats)
+
+  </div>
 </details>
 
-### HOW TO REACH ME 📬
+### 📬 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jsmonterrubio/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <br>
-  
-  ---  
-  Made with ❤️ by **Jesus Monterrubio**.
+
+I'm interested in connecting with professionals, learning from the data community, and exploring opportunities in
+<br>
+
+**Data Analytics and Business Intelligence**.
+<br>
+
+<a href="https://www.linkedin.com/in/jsmonterrubio/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+</a>
+
+<br>
+
+---
+
+<sub>Made with ❤️ by Jesus Monterrubio.</sub>
+
 </div>
