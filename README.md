@@ -2,39 +2,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;Let's+turn+curiosity+into+knowledge;And+data+into+insights.">
   <br>
   
-  ---
 </div>
 
-### 👨🏽‍💻 About Me
+### 👨🏽‍💻 My Profile
 
-I'm **Jesus Monterrubio**, a Computer Systems Engineer from Mexico, graduated in December 2022.
-With a background in **Business and Information Technology**, I'm currently focusing my professional development on **Data Analytics and Business Intelligence**. I'm particularly interested in understanding how data can help organizations identify opportunities, solve problems, improve processes, and make informed decisions. My goal is to build a career in data, starting with analytics and BI, and eventually expanding into **Data Engineering**.
+I'm **Jesus Monterrubio**, a Computer Systems Engineer from Tecnológico de Monterrey in Mexico, with practical knowledge and experience in administrative, operational, and digital activities.
+
+I am interested in technology, digital tools, and practical solutions for business and operational environments.
+
+### 📚 More About Me
+
+- 🎓 B.S. in Computer Systems Engineering.
+- 🌎 Based in Culiacán, Sinaloa, Mexico.
+- 💼 Experience in administrative support, operations, and digital projects.
+- 🌐 Spanish: Native | English: IELTS B2+.
 
 ### 🌱 What I'm currently working on
 
-- 📊 Building foundational skills in Data Analytics and BI.
-- 🗃️ Learning SQL for querying, organizing, and analyzing data.
-- 🐍 Developing Python skills for data analysis and automation.
-- 📈 Exploring Power BI, dashboards, and data visualization.
-- 🧩 Strengthening my analytical thinking and problem-solving skills.
-- 🌎 Improving my professional English communication.
-- 💼 Preparing for entry-level opportunities in the data industry.
+- 🚀 Building my professional and technical portfolio.
+- 💼 Looking for a junior or an entry-level job.
 
 ### 🎯 Career Goals
 
 I'm working toward opportunities such as:
 
-- Junior Data Analyst
-- Junior Business Intelligence Analyst
-- SQL Reporting Analyst
-- Data Quality Analyst
+- Administrative Assistant
+- Operations Assistant
+- Customer Support Representative
+- Virtual Assistant
 
-My long-term goal is to continue growing toward **Data Engineering**, combining technical expertise with business understanding.
+My long-term goal is to continue growing toward **Executive Assistant**, combining technical expertise with business understanding.
 
 ### 💡 Beyond Technology
 
 I value continuous learning, organization, efficiency, and teamwork.
-Outside of technology, I enjoy:
+Outside of technology and administration, I enjoy:
 
 - 🎹 Music and learning piano.
 - 🏋️ Exercising and staying active.
@@ -42,77 +44,53 @@ Outside of technology, I enjoy:
 - 🌱 Caring for the environment.
 - 🤝 Collaborating with people who share a growth mindset.
 
----
-
-### 📚 Currently Learning
+### 📚 Currently Developing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
 </p>
 
-**Focus:** SQL · Python · Power BI · Data Analysis · Data Visualization
+**Focus:** Administrative Support · Operations Management · Data Organization · Report Preparation · Inventory Tracking · Digital Productivity
 
 ### 💻 Previous Technology Exposure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,wordpress,git,vscode,visualstudio" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,vscode,figma" alt="Previous Technology Exposure"/>
 </p>
 
-### ⚙️ Other Tools And Environment
+**Additional experience:** Website management, digital content creation, graphic design tools, Canva, audiovisual editing, and collaborative digital platforms.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,figma,md" alt="Other Tools"/>
-</p>
+### 📂 Administrative & Operations Portfolio
 
-**Additional experience:** Microsoft Office, design tools as Canva, virtual machines, and video editing.
+I'm building a practical portfolio focused on administrative support, business operations, information management, and digital productivity.
 
- ---
+My projects will focus on:
 
-### 📂 Data Analytics Portfolio
-
-I'm currently building my portfolio as I develop my skills in data analytics and business intelligence.
-My upcoming projects will focus on:
-
-- 🗃️ **SQL Analysis:** Data exploration, queries, joins, and reporting.
-- 📊 **Business Intelligence:** Interactive dashboards and KPI tracking.
-- 🐍 **Python Analytics:** Data cleaning, exploration, and visualization.
-- 💼 **Business Case Studies:** Turning real-world business questions into actionable insights.
+- 📊 **Excel Reporting:** Organizing information, preparing reports, and tracking operational indicators.
+- 📦 **Inventory Management:** Recording stock movements, monitoring supplies, and maintaining inventory records.
+- 📋 **Task Management:** Organizing activities, tracking deadlines, and documenting workflows.
+- 💼 **Business Operations:** Developing practical tools to support administrative and operational processes.
+- 🤖 **Digital Productivity:** Exploring digital and AI-powered tools to improve everyday workflows.
 
 *Projects will be added as they are completed.*
-
-### 📈 My Stats
-
-<details>
-  <summary>📊 View my coding activity</summary>
-  <br>
-
-  <div align="center">
-
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=V_Crypt&theme=tokyonight&layout=compact&custom_title=My+Coding+Activity)](https://github.com/V_Crypt/github-readme-stats)
-
-  </div>
-</details>
 
 ### 📬 Let's Connect
 
 <div align="center">
 
-I'm interested in connecting with professionals, learning from the data community, and exploring opportunities in
-<br>
-
-**Data Analytics and Business Intelligence**.
-<br>
+I'm interested in connecting with professionals, and get the job done.
 
 <a href="https://www.linkedin.com/in/jsmonterrubio/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br>
 
 ---
 
-<sub>Made with ❤️ by Jesus Monterrubio.</sub>
+<sub>Made with 🧠 by Jesus Monterrubio.</sub>
 
 </div>
